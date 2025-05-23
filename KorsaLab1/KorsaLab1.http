@@ -1,0 +1,6 @@
+@KorsaLab1_HostAddress = http://localhost:5185
+
+GET {{KorsaLab1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
